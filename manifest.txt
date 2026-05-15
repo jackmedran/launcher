@@ -4,3 +4,4 @@ excuteSendM.exe|excuteSendM.ico
 RefAllProfile.exe|refrech.ico
 yopmail.exe|yopmail.ico
 closeprofiles.exe|closeprofiles.ico
+YTShorts.exe|youtube.ico
