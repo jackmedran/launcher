@@ -3,5 +3,6 @@ SendMessages.exe|SendMessage.ico
 ExcuteSendM.exe|excuteSendM.ico
 RefAllProfile.exe|refrech.ico
 YopMail.exe|yopmail.ico
-CloseProfiles.exe|closeprofiles.ico
 YTShorts.exe|youtube.ico
+Mail_Reply.exe|mail_reply.ico
+CloseProfiles.exe|closeprofiles.ico
